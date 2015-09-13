@@ -30,7 +30,10 @@
 
 # Debug files
 *.dSYM/
+
+#Eclipse
 *.metadata/
+*.RemoteSystemsTempFiles/
 
 #Comprimidos
 *.tar.gz
