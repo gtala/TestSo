@@ -33,6 +33,7 @@
 
 #Eclipse
 *.metadata/
+/RemoteSystemsTempFiles/
 *.RemoteSystemsTempFiles/
 
 #Comprimidos
